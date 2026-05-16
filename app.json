@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Firebase",
+    "slug": "Firebase",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "La app necesita acceso a la cámara."
+        }
+      ]
+    ]
+  }
+}
